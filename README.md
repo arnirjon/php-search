@@ -1,7 +1,6 @@
-# Data search PHP
+<h1 style="">Project Details</h1>
 <img src="demo.png">
 <div class="section">
-<h1 style="">Project Details</h1>
 
 <h3>📑 Project Name: PHP Search</h3>
 
