@@ -1,8 +1,7 @@
 <h1 style="">Project Details</h1>
+<h3>📑 Project Name: PHP Search</h3>
 <img src="demo.png">
 <div class="section">
-
-<h3>📑 Project Name: PHP Search</h3>
 
 <h3>✸ Use Technologies:</h3>
 	<ul style="list-style: circle;">
